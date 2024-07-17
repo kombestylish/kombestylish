@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @kombestylish
-- 👀 I’m interested in project development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on development
-- 📫 How to reach me via email
-kombestylish@gmail.com 
+Hi there 👋, I'm Frances Makombe
 
-<!---
-kombestylish/kombestylish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Front-End Developer | React Native Developer**
+
+About Me
+
+I'm a passionate developer with over four years of experience in front-end development and React Native. I enjoy creating dynamic, responsive web and mobile applications using modern technologies. My goal is to continuously learn and share knowledge within the developer community.
+
+Skills
+- Web Development: HTML, CSS, JavaScript, React, Tailwind CSS
+- Mobile App Development: React Native
+- Design:UI/UX Design, Graphic Design
+- Others: Forex Trading, Cryptocurrency, Digital Marketing, Cybersecurity, Content Creation
+
+Get in Touch
+- Email: francemakombe7@gmail.com
+- LinkedIn: www.linkedin.com/in/frances-makombe-110566318
+- Twitter: https://x.com/KombeStylish
+
+Feel free to check out my repositories and reach out if you want to collaborate on exciting projects or just have a chat!
+
+Thank you for visiting my GitHub profile!
